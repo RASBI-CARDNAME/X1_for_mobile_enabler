@@ -1,0 +1,3 @@
+ro.boot.verifiedbootstate=green
+ro.boot.veritymode=enforcing
+vendor.boot.vbmeta.device_state=locked
